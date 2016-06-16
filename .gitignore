@@ -1,0 +1,27 @@
+# Laravel Default
+/vendor
+/node_modules
+.env
+
+
+# Laravel 5 & Lumen specific
+.env.*.php
+.env.php
+.env
+
+# PHPstorm
+/.phpstorm.meta.php
+/_ide_helper.php
+/.idea
+/.project
+
+# IDE Helper
+_ide_helper.php
+
+# Misc.
+*.DS_Store
+[Tt]humbs.db
+/error_log
+/public/error_log
+*.log
+composer.phar
