@@ -1,2 +1,5 @@
 # Laravel Views Boilerplate 
-Base views boilerplate for Laravel.
+The base view boilerplates we use for our Laravel projects.
+
+## License
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
