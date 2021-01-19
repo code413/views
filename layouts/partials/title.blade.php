@@ -1,0 +1,1 @@
+<title>@yield('title') @if(!view()->hasSection('title.plain'))- {{ config('app.name') }}@endif</title>
